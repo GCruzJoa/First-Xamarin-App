@@ -1,0 +1,14 @@
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\bin\Debug\netstandard2.0\FirstXamarinApp.deps.json
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\bin\Debug\netstandard2.0\FirstXamarinApp.dll
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\bin\Debug\netstandard2.0\ref\FirstXamarinApp.dll
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\bin\Debug\netstandard2.0\FirstXamarinApp.pdb
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.csprojAssemblyReference.cache
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.AssemblyInfoInputs.cache
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.AssemblyInfo.cs
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.csproj.CoreCompileInputs.cache
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.dll
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\ref\FirstXamarinApp.dll
+C:\Users\kafay\source\repos\FirstXamarinApp\FirstXamarinApp\obj\Debug\netstandard2.0\FirstXamarinApp.pdb

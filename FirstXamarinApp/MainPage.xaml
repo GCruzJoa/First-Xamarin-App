@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FirstXamarinApp.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="Coral" Padding="24" CornerRadius="0">
+            <Label Text="Bienvenidos a mi Primer Xamarin App!" HorizontalTextAlignment="Center" TextColor="Aqua" FontSize="32"/>
+        </Frame>
+        <Label Text="Gabriel Cruz" FontSize="Title" TextDecorations="Underline" Padding="30,10,30,10"/>
+        <Label Text="ID: 1074387" FontSize="20" Padding="30,10,30,10"/>
+        <Label Text="Cambio de propiedades en la interfaz grafica!" FontSize="20" Padding="30,0,30,0"/>
+        <Label Text="Cambios en Text, TextColor, BackgroundColor, FontSize y TextDecorations." FontSize="20" Padding="30,0,30,0"/>
+        <Label FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="LinkedIn: "/>
+                        <Span Text="https://www.linkedin.com/in/gcruzjoa/" FontAttributes="Bold" FontSize="20"/>
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+    </StackLayout>
+
+</ContentPage>
